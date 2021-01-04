@@ -1,8 +1,9 @@
-# Azure Billing Model
+# Azure Billing FAQ
 
+## What payment options do I have in purchasing Azure?
 There are four billing models for Azure customers, including Azure Enterprise Agreement (EA), Azure in Open, Azure in CSP and Pay-As-You-Go with Credit Card. No matter it is prepaid or monthly invoice / charge back, all models will follow Pay-As-You-Go charging practice. Pay-As-You-Go with Credit Card is not recommeded for Education Institutes, this model may not fit school's finanical procedures. 
 
-## Azure Enterprise Agreement (EA)
+### Azure Enterprise Agreement (EA)
 - Offical website for [Enterprise Agreement](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/ea-portal-get-started)
 - EA follows prepaid billing approach
 - EA requires three years contract with at least USD12k per year or USD36k for 3 years. 
@@ -13,7 +14,7 @@ There are four billing models for Azure customers, including Azure Enterprise Ag
 ![ea-hierarchies](./media/ea-hierarchies.png)
 
 
-## Azure in Open
+### Azure in Open
 - Offical website for [Azure in Open](https://azure.microsoft.com/en-us/offers/ms-azr-0111p/)
 - Open License follows prepaid billing approach (like an octopus card)
 - Open License can be purchased as a credit key with minimum USD100 each. There is no minimum requirement on the number of keys in a single order. 
@@ -23,7 +24,7 @@ There are four billing models for Azure customers, including Azure Enterprise Ag
 - Once the Open License keys are activiated, the credits will be expired in 1 year. 
 - There is no hierarchies concept / portal for management. Open License is attached by subscription level. 
 
-## Azure in CSP 
+### Azure in CSP 
 - Offical website for [Azure in CSP](https://azure.microsoft.com/en-us/offers/ms-azr-0145p/)
 - CSP follows pay-as-you-go approach and send monthly invoice to customer. For example, customer consumed USD10 only in January, he will receive USD10 invoice in next month. 
 - CSP can be created with zero upfront payment.
