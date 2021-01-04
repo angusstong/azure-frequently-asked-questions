@@ -1,11 +1,11 @@
-# Azure Billing FAQ
+# Azure Payment FAQ
 
 ## What payment options do I have in purchasing Azure?
-There are four billing models for Azure customers, including Azure Enterprise Agreement (EA), Azure in Open, Azure in CSP and Pay-As-You-Go with Credit Card. No matter it is prepaid or monthly invoice / charge back, all models will follow Pay-As-You-Go charging practice. Pay-As-You-Go with Credit Card is not recommeded for Education Institutes, this model may not fit school's finanical procedures. 
+There are four payment options for Azure customers, including Azure Enterprise Agreement (EA), Azure in Open, Azure in CSP and Pay-As-You-Go with Credit Card. No matter it is prepaid or monthly invoice / charge back, all models will follow Pay-As-You-Go charging practice. Pay-As-You-Go with Credit Card is not recommeded for Education Institutes, this model may not fit school's finanical procedures. 
 
 ### Azure Enterprise Agreement (EA)
 - Offical website for [Enterprise Agreement](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/ea-portal-get-started)
-- EA follows prepaid billing approach
+- EA follows prepaid payment approach
 - EA requires three years contract with at least USD12k per year or USD36k for 3 years. 
 - EA offers one year free standard support plan for customers. Customers can freely submit ticket for troubleshooting. 
 - EA offers pricing lock down to ensure the pricing of all products. 
@@ -16,7 +16,7 @@ There are four billing models for Azure customers, including Azure Enterprise Ag
 
 ### Azure in Open
 - Offical website for [Azure in Open](https://azure.microsoft.com/en-us/offers/ms-azr-0111p/)
-- Open License follows prepaid billing approach (like an octopus card)
+- Open License follows prepaid payment approach (like an octopus card)
 - Open License can be purchased as a credit key with minimum USD100 each. There is no minimum requirement on the number of keys in a single order. 
 - Open License can be topped up to any subscriptions with any email addresses. For example, admin purchased 10 keys and distributed them to 10 users. Each user can activitate their own subscription with a valid key. 
 - Open License does not cover any support plan by default. Users can not submit ticket for troubleshooting. 
