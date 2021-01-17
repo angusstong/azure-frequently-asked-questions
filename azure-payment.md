@@ -23,6 +23,7 @@ There are four payment options for Azure customers, including Azure Enterprise A
 - Open License does not allow customer to overuse the credits. If the users consumed all credits, all resources will be terminated temperarily. Once additional credit keys are topped up, the services will be resumed. From the positive view, Open License is good for those cases with restricted budget. Users will not have chance to overuse and the budget will not be excced. 
 - Once the Open License keys are activiated, the credits will be expired in 1 year. 
 - There is no hierarchies concept / portal for management. Open License is attached by subscription level. 
+- Azure in Open purchases are valid for 12 months after activation and must be activated within five years of the purchase date.
 
 ### Azure in CSP 
 - Offical website for [Azure in CSP](https://azure.microsoft.com/en-us/offers/ms-azr-0145p/)
