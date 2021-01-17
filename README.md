@@ -1,3 +1,3 @@
-# Azure Frequently Asked Questions 
+# Azure Content
 
 * [Azure Payment](./azure-payment.md)
